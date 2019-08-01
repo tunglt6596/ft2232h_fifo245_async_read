@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tung/Desktop/KNAN_4genNuc_FTDI_v3_0/cmake_example/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+ftdi.h
+-
+time.h
+-
+

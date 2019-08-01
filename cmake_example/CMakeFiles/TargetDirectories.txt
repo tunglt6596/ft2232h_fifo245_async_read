@@ -1,0 +1,7 @@
+/home/tung/Desktop/KNAN_4genNuc_FTDI_v3_0/cmake_example/CMakeFiles/install/strip.dir
+/home/tung/Desktop/KNAN_4genNuc_FTDI_v3_0/cmake_example/CMakeFiles/edit_cache.dir
+/home/tung/Desktop/KNAN_4genNuc_FTDI_v3_0/cmake_example/CMakeFiles/example.dir
+/home/tung/Desktop/KNAN_4genNuc_FTDI_v3_0/cmake_example/CMakeFiles/rebuild_cache.dir
+/home/tung/Desktop/KNAN_4genNuc_FTDI_v3_0/cmake_example/CMakeFiles/list_install_components.dir
+/home/tung/Desktop/KNAN_4genNuc_FTDI_v3_0/cmake_example/CMakeFiles/install/local.dir
+/home/tung/Desktop/KNAN_4genNuc_FTDI_v3_0/cmake_example/CMakeFiles/install.dir
